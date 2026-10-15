@@ -7,3 +7,5 @@ Practicar Git y GitHub creando un README bien estructurado y aplicando buenas pr
 Esta línea se ha añadido desde mi ordenador.
 
 Esta línea se ha añadido desde GitHub.
+
+## Instalación
